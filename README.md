@@ -15,4 +15,4 @@ Examples for structures:
 ![](https://github.com/rotemarie/CHEM3D/blob/main/screens/chair.png) ![](https://github.com/rotemarie/CHEM3D/blob/main/screens/models.png)
 ### Feedback
 - Users can leave feedback
-  ![](https://github.com/rotemarie/CHEM3D/blob/main/screens/feedback.png)
+  ![]()
